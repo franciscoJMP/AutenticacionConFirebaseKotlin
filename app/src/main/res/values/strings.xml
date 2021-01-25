@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutenticacionConFireBase</string>
+    <string name="prefs_file">com.example.autenticacionconfirebase.FILE</string>
+    <string name="facebook_app_id">705991796755640</string>
+    <string name="fb_login_protocol_scheme">fb705991796755640</string>
+
+</resources>
